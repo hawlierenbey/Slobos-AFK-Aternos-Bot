@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "WortexCraft.aternos.me:53921",
+    "port" 53921,
     "version": "",
     "try-creative": false
   },
